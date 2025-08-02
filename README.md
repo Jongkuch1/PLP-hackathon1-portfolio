@@ -65,9 +65,9 @@ My Portfolio/
 ## 🎨 My Design Choices
 
 ### Color Scheme
-I chose a professional navy blue and sky blue theme because:
+I chose a professional navy blue and white theme because:
 - Navy blue (#1E3A8A) represents trust and professionalism
-- Sky blue (#87CEEB) adds a modern, friendly touch
+- White adds a modern, friendly touch
 - The combination works well for a tech portfolio
 
 ### Personal Touches
@@ -77,7 +77,6 @@ I chose a professional navy blue and sky blue theme because:
 - **Real Projects**: Actual work I've done, not just examples
 
 ### Technical Decisions
-- Used minimal JavaScript for better performance
 - Mobile-first responsive design
 - Semantic HTML for accessibility
 - CSS animations for smooth user experience
@@ -131,7 +130,6 @@ I chose a professional navy blue and sky blue theme because:
 - **CSS Animations**: Creating smooth, professional animations
 - **Color Theory**: Choosing colors that work well together
 - **User Experience**: Making navigation intuitive and content accessible
-- **Performance**: Keeping it fast with minimal JavaScript
 - **Accessibility**: Using semantic HTML and proper contrast ratios
 
 ## ✨ Cool Features I'm Proud Of
@@ -205,11 +203,12 @@ I'm Jongkuch Isaac Chol Anyar, originally from South Sudan and currently studyin
 
 ## 🙏 Thank You
 
-- **African Leadership University**: For the incredible education and opportunities
-- **My Family**: For supporting my journey from South Sudan to Rwanda
-- **The Tech Community**: For all the free resources and knowledge sharing
-- **freeCodeCamp, Coursera, AWS, Meta**: For the excellent certification programs
-- **You**: For taking the time to look at my work!
+**PLP Academy**: For the guidance and opportunity to showcase my skills through this challenge.
+**African Leadership University***: For the incredible education and opportunities.
+**My Family***: For supporting my journey from South Sudan to Rwanda.
+**The Tech Community***: For all the free resources and knowledge sharing.
+**freeCodeCamp, Coursera, AWS, Meta***: For the excellent certification programs.
+**You**: For taking the time to look at my work!
 
 ---
 
@@ -217,4 +216,4 @@ I'm Jongkuch Isaac Chol Anyar, originally from South Sudan and currently studyin
 
 I'm always working on new projects and learning new technologies. Follow my journey on GitHub and LinkedIn to see what I'm building next. And remember - let's share our knowledge and help others learn!
 
-**Happy coding!** 💻✨
+**Happy coding!**
