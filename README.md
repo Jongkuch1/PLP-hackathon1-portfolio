@@ -1,7 +1,7 @@
 # My Personal Portfolio Website
 
 Hello! I'm Jongkuch Isaac Chol Anyar, and welcome to my personal portfolio website.
-I built this project as part of the PLP Academy Hackathon 1: Portfolio Challenge 🚀.
+I built this project as part of the PLP Academy Hackathon 1: Portfolio Challenge.
 
 As a Software Engineering student, I’m passionate about creating technology solutions that address real-world challenges, particularly in Africa. This portfolio highlights my skills, educational journey, interests, and projects while serving as a platform to connect with potential collaborators and employers.
 
