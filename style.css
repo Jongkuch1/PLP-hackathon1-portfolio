@@ -14,7 +14,7 @@ body {
     line-height: 1.6;
     color: #111827;
     overflow-x: hidden;
-    background-color: #FAFAFA;
+    background-color: white;
 }
 
 .container {
@@ -28,7 +28,7 @@ body {
 }
 
 .bg-light {
-    background-color: #87CEEB;
+    background-color: white;
 }
 
 .highlight {
@@ -238,7 +238,7 @@ h2 {
 }
 
 .language-card {
-    background: #87CEEB;
+    background: white;
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -288,7 +288,7 @@ h2 {
 }
 
 .education-item {
-    background: #87CEEB;
+    background: white;
     padding: 2rem;
     margin-bottom: 2rem;
     border-radius: 10px;
@@ -353,7 +353,7 @@ h2 {
 }
 
 .interest-card {
-    background: #87CEEB;
+    background: white;
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -383,7 +383,7 @@ h2 {
 }
 
 .project-card {
-    background: #87CEEB;
+    background: white;
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -473,7 +473,7 @@ h2 {
 }
 
 .contact-form {
-    background: #87CEEB;
+    background: white;
     padding: 1.5rem;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -668,4 +668,7 @@ h2 {
     margin-top: 1rem;
     text-align: center;
     font-weight: 300;
+}
+.about-section {
+    background-color: transparent;
 }
