@@ -32,7 +32,10 @@ Hello! I'm Jongkuch Isaac Chol Anyar, and this is my personal portfolio website.
 
 ## 🚀 How to View My Portfolio
 
-### Simple Setup
+### Live Website
+**Visit my portfolio online**: [https://plp-hackathon1-portfolio.onrender.com](https://plp-hackathon1-portfolio.onrender.com)
+
+### Local Setup
 1. Download all the files to your computer
 2. Open `index.html` in any modern web browser
 3. That's it! No installation needed
@@ -99,15 +102,16 @@ I chose a professional navy blue and sky blue theme because:
 2. Enable GitHub Pages in settings
 3. Get a free website at `jongkuch1.github.io/portfolio`
 
-### Netlify (My Preferred Choice)
-1. Drag and drop my folder to Netlify
-2. Get instant deployment with a custom URL
-3. Automatic updates when I make changes
+### Render (My Current Choice)
+1. Connected my GitHub repository to Render
+2. Automatic deployments on every push
+3. Live at: https://plp-hackathon1-portfolio.onrender.com
 
 ### Other Options
+- Netlify for drag-and-drop deployment
 - Vercel for fast deployment
+- GitHub Pages for free hosting
 - Traditional web hosting
-- University hosting services
 
 ## 📱 Tested On
 
