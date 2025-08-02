@@ -204,10 +204,10 @@ I'm Jongkuch Isaac Chol Anyar, originally from South Sudan and currently studyin
 ## 🙏 Thank You
 
 **PLP Academy**: For the guidance and opportunity to showcase my skills through this challenge.
-**African Leadership University***: For the incredible education and opportunities.
-**My Family***: For supporting my journey from South Sudan to Rwanda.
-**The Tech Community***: For all the free resources and knowledge sharing.
-**freeCodeCamp, Coursera, AWS, Meta***: For the excellent certification programs.
+**African Leadership University**: For the incredible education and opportunities.
+**My Family**: For supporting my journey from South Sudan to Rwanda.
+**The Tech Community**: For all the free resources and knowledge sharing.
+**freeCodeCamp, Coursera, AWS, Meta**: For the excellent certification programs.
 **You**: For taking the time to look at my work!
 
 ---
