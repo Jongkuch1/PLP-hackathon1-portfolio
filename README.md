@@ -68,7 +68,7 @@ I chose a professional navy blue and sky blue theme because:
 - The combination works well for a tech portfolio
 
 ### Personal Touches
-- **My Quote**: "Share Your Knowledge and Experiences and Help Others Learn" - this reflects my belief in community and education
+- **My Quote**: "Share Your Knowledge and Experiences to Help Others Learn" - this reflects my belief in community and education
 - **Animated Background**: My photo moves subtly to create visual interest
 - **Skills Display**: Honest percentages showing my current abilities
 - **Real Projects**: Actual work I've done, not just examples
